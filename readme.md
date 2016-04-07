@@ -32,7 +32,8 @@ Set a variable in Qliksense and create customized multiple button.
 
 1. Drag and drop the visualization extension into a Qlik Sense sheet and define variable name
 
-2. We can change the default label text value with comma separator upto 5 buttons.
+2. We can change the default label text with comma separator upto 5 values(buttons). Button created based on input label, for example if we have only one label with no comma, only one button will be created
+3. Example Labels - A,B,C,D,E then 5 buttons created with these label, appropriate variable values are 1,2,3,4,5.
 
 ![label text](https://cloud.githubusercontent.com/assets/18327523/14351950/cd410d9c-fcef-11e5-877c-e4b481b2ff16.png)
 
