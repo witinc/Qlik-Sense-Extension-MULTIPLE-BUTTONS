@@ -1,6 +1,6 @@
 # Multiple-Switch-Button
 
-Desc
+Set a variable in Qliksense and create customized multiple button.
 
 ## Table of Contents
 * [Screenshot](#screenshot)
