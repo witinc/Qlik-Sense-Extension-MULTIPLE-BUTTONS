@@ -1,0 +1,8 @@
+{
+	"name": "#AeS Multiple Button",
+	"description": "It will present the output from 1 to 5 based on user selection. ",
+	"type": "visualization",
+	"preview": "extn.png",
+	"version": 1,
+	"author": "Assure eServices Inc.,"
+}
